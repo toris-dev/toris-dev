@@ -22,8 +22,8 @@
 </br></br>
 <h3 align="center">🏆 Stat & Language Used 🏆</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujoohwan" width=300 />
-    <img src="https://github-readme-stats.vercel.app/api?username=jujoohwan&show_icons=true&theme=cobalt" width=420 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwemin" width=300 />
+    <img src="https://github-readme-stats.vercel.app/api?username=gwemin&show_icons=true&theme=cobalt" width=420 />
 </p>
 </br></br>
 <h3 align="center">🎈 Blog 🎈</h3>
