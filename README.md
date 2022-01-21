@@ -4,13 +4,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 </br></br>
-<h2 align="center">Blog</h2>
-<p align="center"> 
-<a href="https://wiretony.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white">
-</a></p>
-</br></br>
-
-<h2 align="center">Language & Tools</h2>
+<h3 align="center">Language & Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/></a>&nbsp
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp
@@ -26,10 +20,15 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
-</br></br></br>
-
-<h2 align="center">Stat & Language Used</h2>
+</br></br>
+<h3 align="center">🏆 Stat & Language Used 🏆</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujoohwan" width=300 />
     <img src="https://github-readme-stats.vercel.app/api?username=jujoohwan&show_icons=true&theme=cobalt" width=420 />
 </p>
+</br></br>
+<h3 align="center">🎈 Blog 🎈</h3>
+<p align="center"> 
+<a href="https://wiretony.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white">
+</a></p>
+</br></br>
