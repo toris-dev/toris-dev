@@ -1,8 +1,9 @@
 # Hi~~  FullStack developer-oriented students.
 
 ### Blog
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://wiretony.tistory.com){:target="_blank"}
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
 
 ### Front-end
