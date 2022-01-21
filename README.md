@@ -22,8 +22,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jujoohwan)](https://github.com/jujoohwan/github-readme-stats)  
 
-<br/>
+
+
 ### Language Used  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujoohwan)](https://github.com/jujoohwan/github-readme-stats)
