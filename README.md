@@ -4,7 +4,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 </br></br>
-<h3 align="center">Language & Tools</h3>
+<h3 align="center">⌨ Language & Tools ⌨</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/></a>&nbsp
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp
