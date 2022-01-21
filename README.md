@@ -1,7 +1,7 @@
 # Hi~~  FullStack developer-oriented students.
 
 ### Blog
-<a href="https://wiretony.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
+<a href="https://wiretony.tistory.com" target='_blank'><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
 
 
 ### Front-end
