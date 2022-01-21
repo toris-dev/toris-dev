@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gwemin%20Stack&fontSize=90)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<br/>
+
 <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/></a>&nbsp
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp
@@ -21,7 +21,6 @@
 </p>
 </br></br>
 <h3 align="center">🏆 Stat & Language Used 🏆</h3>
-<br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujoohwan" width=300 />
     <img src="https://github-readme-stats.vercel.app/api?username=jujoohwan&show_icons=true&theme=cobalt" width=420 />
