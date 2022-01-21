@@ -1,7 +1,7 @@
 # Hi~~  FullStack developer-oriented students.
 
 ### Blog
-[Google]: http://google.com/ 
+[Googldsadsadsadsadase]: http://google.com/ 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://wiretony.tistory.com){: target=_blank}
 
 
