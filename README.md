@@ -28,6 +28,8 @@
 </br></br>
 <h3 align="center">🎈 Blog 🎈</h3>
 <p align="center"> 
-<a href="https://wiretony.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white">
-</a></p>
+<a href="https://wiretony.tistory.com" target="_blank">🏀T스토리 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></br>
+</a>
+<a href="https://gwemin.github.io" target="_blank">⚽Github<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>
 </br></br>
