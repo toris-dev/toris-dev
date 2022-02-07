@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=red"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
     </br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=yellow"/></a>&nbsp
