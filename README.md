@@ -3,11 +3,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center">
-       <b>띵언: </b> 
-        🎉개발은 나혼자 성장하는게 아니라 다른사람 까지 성장시키는 일이다.🎉
-</p>
-</br>
+
 <p align="center" >
     <b>Language: </b>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=yellow"/></a>&nbsp
@@ -51,3 +47,9 @@
 <a href="https://gwemin.github.io" target="_blank">⚽Github<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a>
 </p>
 </br></br>
+
+<p align="center">
+       <b>띵언: </b> 
+        🎉개발은 나혼자 성장하는게 아니라 다른사람 까지 성장시키는 일이다.🎉
+</p>
+</br>
