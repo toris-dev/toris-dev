@@ -1,4 +1,4 @@
-# ✨항상 풀스택 개발자를 지향하는 청년입니다✨
+# ✨풀스택 개발자를 지향하는 청년입니다✨
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Gwemin%20Stack&fontSize=90)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
