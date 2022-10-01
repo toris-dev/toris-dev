@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=red"/></a>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/></a>&nbsp
     </br></br>
-    <b>Framework: </b>
+    <!-- <b>Framework: </b>
     <img src="https://img.shields.io/badge/springboot-%236DB33F?style=plastic&logo=springboot&logoColor=white"/></a>&nbsp
-    </br></br>
+    </br></br> -->
     <b>DB: </b>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>&nbsp
