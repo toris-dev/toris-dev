@@ -42,9 +42,7 @@
 </br></br>
 <h3 align="center">🎈 Blog 🎈</h3>
 <p align="center"> 
-<a href="https://wiretony.tistory.com" target="_blank">🏀T스토리 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></br>
-</a>
-<a href="https://gwemin-blog.vercel.app" target="_blank">⚽Notion<img src="https://img.shields.io/badge/Notion-181717?style=plastic&logo=GitHub&logoColor=white"/></a>
+<a href="https://testdev921.tistory.com/" target="_blank">🏀T스토리 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></br></a>
 </p>
 </br></br>
 
