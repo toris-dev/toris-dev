@@ -1,5 +1,5 @@
-# ✨풀스택 개발을 지향하는 Gwemin 입니다.✨
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Gwemin&fontSize=90)
+# ✨풀스택 개발을 지향하는 Toris 입니다.✨
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Toris&fontSize=90)
 <p align="center"><strong> 
     호기심이 많아 이것🔎 저것🔍 공부하는 청년입니다.
 </strong></p>
