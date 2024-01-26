@@ -9,3 +9,6 @@
         🎉개발은 나혼자 성장하는게 아니라 다른사람 까지 성장시키는 일이다.🎉
 </p>
 </br>
+<div align="center">
+<a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> 
+</div>
