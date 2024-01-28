@@ -1,5 +1,7 @@
 # ✨풀스택 개발을 지향하는 Toris 입니다.✨
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Toris&fontSize=90)
+
+
 <p align="center"><strong> 
     호기심이 많아 이것🔎 저것🔍 공부하는 Toris입니다.
 </strong></p>
@@ -10,5 +12,8 @@
 </p>
 </br>
 <div align="center">
-<a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> </br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=toris-dev&color=12&icon=5&pretty=false" />
+</a>
 </div>
