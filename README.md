@@ -13,7 +13,4 @@
 </br>
 <div align="center">
 <a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> </br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=toris-dev&color=12&icon=5&pretty=false" />
-</a>
 </div>
