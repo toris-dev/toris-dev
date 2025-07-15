@@ -4,10 +4,7 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </br>
-<p align="center">
-       <b>띵언: </b> 
-        🎉개발은 나혼자 성장하는게 아니라 다른사람 까지 성장시키는 일이다.🎉
-</p>
+<p align="center">🎉소통으로 과정을, 이해로 산출물을 만들어내는 개발자입니다.🎉</p>
 </br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=toris-dev&show_icons=true&theme=gruvbox" />
