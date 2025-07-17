@@ -4,8 +4,6 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </br>
-<p align="center">🎉소통으로 과정을, 이해로 산출물을 만들어내는 개발자입니다.🎉</p>
-</br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=toris-dev&show_icons=true&theme=gruvbox" />
     <a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> </br>
