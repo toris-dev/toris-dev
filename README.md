@@ -5,8 +5,6 @@
   </a>
 </br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=toris-dev&show_icons=true&theme=gruvbox" />
-    <a href="https://github.com/toris-dev"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toris-dev&layout=compact&theme=nord&hide_border=true" /></a> </br>
     <img src="https://komarev.com/ghpvc/?username=toris-dev&color=red" />
 </div>
 
