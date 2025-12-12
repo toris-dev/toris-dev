@@ -1,6 +1,6 @@
 # ✨풀스택 개발을 지향하는 Toris 입니다.✨
 
-<a href="https://toris-dev.tistory.com">
+<a href="https://toris-blog.vercel.app">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </br>
